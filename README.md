@@ -2,7 +2,7 @@
 - 👀 I’m interested in backend services.
 - 🌱 I’m currently learning DDD with Kotlin and Spring Boot
 - 💞️ I’m looking to collaborate on remote works
-- 📫 How to reach me ... Send an email to dbsdev54@gmail.com
+- 📫 How to reach me ... Send an email to dbsdev54@hotmail.com
 
 <!---
 danilo5323/danilo5323 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
